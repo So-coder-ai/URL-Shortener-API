@@ -5,7 +5,7 @@ psycopg2-binary
 redis==5.0.1
 slowapi==0.1.9
 python-multipart==0.0.6
-pydantic==2.5.0
+pydantic==2.4.2
 pydantic-settings==2.1.0
 python-jose[cryptography]==3.3.0
 passlib[bcrypt]==1.7.4
