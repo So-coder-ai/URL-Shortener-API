@@ -162,6 +162,3 @@ alembic downgrade -1
 - Consider using a reverse proxy (Nginx)
 - Implement proper backup strategies
 
-## License
-
-MIT License
